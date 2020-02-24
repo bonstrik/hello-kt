@@ -2,7 +2,7 @@ fun main()
 {
     fun func() 
     {
-        val i: Int = 5
+        val i: Int = 555
         if (i > 5) {
             println("nothing")
         } else {
