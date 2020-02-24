@@ -9,6 +9,7 @@ fun main()
             println("Hello, Kt!")
         }
     }
-
+    
+    println("1 commit")
     func()
 }
